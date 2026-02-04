@@ -1,0 +1,16 @@
+[
+  {
+    "type": 0,
+    "content": "Hello from Thermer!",
+    "bold": 1,
+    "align": 1,
+    "format": 2
+  },
+  {
+    "type": 0,
+    "content": "GitHub Pages printing works!",
+    "bold": 0,
+    "align": 0,
+    "format": 0
+  }
+]
